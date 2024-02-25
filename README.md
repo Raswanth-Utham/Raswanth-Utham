@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raswanth-Utham
 - 👀 I’m interested in open source contributions for embedded systems and softwares
 - 🌱 I’m currently learning Rust and working in a semiconuctor industry
-- 💞️ I’m looking to collaborate on issues related to Linux, Microcontrollers and Drivers
+- 💞️ I’m looking to collaborate on issues related to Linux, Microcontrollers and Device Drivers
 - 📫 How to reach me raswanth.a@gmail.com
 - 😄 Pronouns: He|Him
 - ⚡ Fun fact: 😄
